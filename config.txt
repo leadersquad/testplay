@@ -1,0 +1,6 @@
+token=NTE1MzEwMDY5NDcxMTE3MzI1.DtjQgA.O9QYRbKBDAleodH5AvuwzMVuw5k
+owner=490803489765720064
+prefix= T
+game= Tplay
+stayinchannel=true
+songinstatus=true
